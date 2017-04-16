@@ -1,2 +1,2 @@
 # Python_step2
-The second step of Python learning.
+The second step of my second time to learn Python.
